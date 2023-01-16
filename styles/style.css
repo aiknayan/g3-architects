@@ -394,7 +394,7 @@ footer {
   border-radius: 8px;
 }
 
-.footer-text {
+.footertext {
   font-size: 16px;
   text-align: center;
   color: #424242;
@@ -567,7 +567,7 @@ footer {
     padding: 20px 30px;
   }
 
-  .footer-text {
+  .footertext {
     font-size: 12px;
   }
 
