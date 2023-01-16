@@ -291,8 +291,8 @@ nav {
 }
 
 /* Sponsors*/
-.section-sponsor {
-  padding: 0 240px;
+.sectionsponsor {
+  padding: 10px 240px;
   margin-bottom: 130px;
 }
 
@@ -532,7 +532,7 @@ footer {
   }
 
   /* Sponsor section */
-  .section-sponsor {
+  .sectionsponsor {
     padding: 0px 20px;
     margin-bottom: 30px;
   }
