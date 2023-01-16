@@ -350,10 +350,15 @@ nav {
   justify-content: center;
 }
 
+
 .service-text {
   width: 600px;
   margin-bottom: 50px;
+  font-size: 16px;
+  line-height: 26px;
+  color: #727272;
 }
+
 
 .service-img {
   display: grid;
@@ -535,7 +540,7 @@ footer {
     font-size: 36px;
   }
 
-  .sponsor-text {
+  .sponsor-text .service-text {
     width: 100%;
   }
 
